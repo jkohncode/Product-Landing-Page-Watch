@@ -1,0 +1,88 @@
+#tungle-tungle {
+  width: 700px;
+}
+.tungle-body {
+  background-color: rgb();
+}
+
+.watch-me {
+  text-align: center;
+  font-family: Lobster;
+  color: indigo;
+  box-shadow: 2px 5px 10px purple;
+  background-color: wheat;
+  border: solid black;
+  border-radius: 40px;
+}
+
+.img-orbit {
+  display: block;
+  margin: auto;
+}
+#story-link {
+  margin-left: 1px;
+}
+#testimonies-link {
+  margin-left: 50px;
+}
+#contact-link {
+  margin-left: 50px;
+}
+#video-player {
+  margin-left: 50px;
+}
+a:hover {
+  color: red;
+}
+.testimony-block {
+  margin-left: 20px;
+  margin-top: 30px;
+}
+#our-story {
+  margin: auto;
+}
+.story-block {
+  background-color: ;
+}
+.foodheim {
+  height: 30px;
+  width: 40px;
+  margin-bottom: 0px;
+  border-radius: 40px;
+}
+#andrea-pic {
+  height: 50px;
+  border-radius: 50px;
+}
+#nav-bar {
+  border-radius: 30px;
+  background-color: pink;
+  text-align: center;
+  font-family: lobster;
+  position: absolute;
+  padding: 20px;
+  margin: 100px;
+}
+p {
+  font-family: sans-serif;
+}
+#video-watch {
+  height: 40px;
+}
+#video {
+  margin-bottom: 30px;
+  margin-top: 0px;
+}
+@media (max-height: 480px) {
+  p {
+    font-size: 30px;
+  }
+}
+.footer-div {
+  background-color: wheat;
+  margin: 40px;
+  font-size: 20px;
+  border: solid;
+  display: flex;
+  justify-content: center;
+}
